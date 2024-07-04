@@ -6,10 +6,11 @@
     <Nullable>enable</Nullable>
 
     <PackageId>12FactorAppLibrarySample</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Alterbooth</Authors>
     <Company>Alterbooth</Company>
     <PackageDescription>12FactorApp library sample</PackageDescription>
+    <RepositoryUrl>https://github.com/kamomekengit1616/12fa</RepositoryUrl>
     <!--<RepositoryUrl>https://github.com/ACCOUNT_NAME/REPOSITORY_NAME</RepositoryUrl>-->
   </PropertyGroup>
 
